@@ -26,7 +26,7 @@ I'm developing indie games for my soul<img src="https://media.giphy.com/media/WU
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="sharp" alt="c#" width="40" height="40"/>&nbsp
-  <img src="http://www.w3.org/2000/svg" title="ps" alt="ps" width="40" height="40"/>&nbsp
+  <img src="https://profilinator.rishav.dev/skills-assets/unity.png" title="ps" alt="ps" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="ps" alt="ps" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp
 </div>
