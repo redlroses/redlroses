@@ -22,18 +22,18 @@ I'm developing indie games for my soul<img src="https://media.giphy.com/media/WU
 
 ---
 
-### 💻 Технологии:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="sharp" alt="c#" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg.svg" title="ps" alt="ps" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="ps" alt="ps" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp
 </div>
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visual studio" alt="visual studio" width="40" height="40"/>&nbsp;
@@ -43,12 +43,12 @@ I'm developing indie games for my soul<img src="https://media.giphy.com/media/WU
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=redlroses&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
