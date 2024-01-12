@@ -52,7 +52,7 @@
 <a href="https://github.com/redlroses" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://discord.me/cozythighs" target="_blank">
+<a href="https://discord.me/redlroses" target="_blank">
 <img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/redlroses" target="_blank">
