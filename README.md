@@ -1,4 +1,4 @@
-### <div align="center">I'm Evgeniy, a Unity developer 👨‍💻</div>  
+### <h1 align="center">I'm Evgeniy, a Unity developer 👨‍💻</h1>  
   
 
 - 🎮 Making some Indie games  
